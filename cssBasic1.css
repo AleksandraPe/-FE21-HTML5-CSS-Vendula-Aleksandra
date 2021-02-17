@@ -3,18 +3,14 @@ div {
     margin: 5px;
 }
 
-#third p{
-    display: none;
-}
-
-h1 {
-    display: none;
-}
-
 #second {
-    visibility: hidden;
+    visibility: visible;
 }
 
 img {
     visibility: visible;
+}
+
+#first p {
+    font-size: larger;
 }
